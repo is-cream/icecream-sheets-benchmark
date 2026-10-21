@@ -1,0 +1,290 @@
+[
+ {
+  "sheet": "DbFuncs",
+  "addr": "A10",
+  "formula": "DSUM(A1:C5,\"Score\",A7:C9)",
+  "exp": 170
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A11",
+  "formula": "DAVERAGE(A1:C5,\"Score\",A7:C9)",
+  "exp": 85
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A12",
+  "formula": "DCOUNT(A1:C5,\"Score\",A7:C9)",
+  "exp": 2
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A13",
+  "formula": "DCOUNTA(A1:C5,\"Name\",A7:C9)",
+  "exp": 2
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A14",
+  "formula": "DMAX(A1:C5,\"Score\",A7:C9)",
+  "exp": 90
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A15",
+  "formula": "DMIN(A1:C5,\"Score\",A7:C9)",
+  "exp": 80
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A16",
+  "formula": "DSTDEV(A1:C5,\"Score\",A7:C9)",
+  "exp": 7.0710678118654755
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A17",
+  "formula": "DSTDEVP(A1:C5,\"Score\",A7:C9)",
+  "exp": 5
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A18",
+  "formula": "DVAR(A1:C5,\"Score\",A7:C9)",
+  "exp": 50
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A19",
+  "formula": "DVARP(A1:C5,\"Score\",A7:C9)",
+  "exp": 25
+ },
+ {
+  "sheet": "DbFuncs",
+  "addr": "A20",
+  "formula": "DGET(A1:C5,\"Score\",A7:C8)",
+  "exp": 80
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A1",
+  "formula": "NUMBERVALUE(\"1,234.56\")",
+  "exp": 1234.56
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A2",
+  "formula": "TEXTBEFORE(\"a,b,c\",\",\")",
+  "exp": "a"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A3",
+  "formula": "TEXTAFTER(\"a,b,c\",\",\")",
+  "exp": "b,c"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A4",
+  "formula": "TEXTBEFORE(\"a,b,c\",\",\",2)",
+  "exp": "a,b"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A5",
+  "formula": "ARRAYTOTEXT({1,\"a\"})",
+  "exp": "1,a"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A6",
+  "formula": "VALUETOTEXT(42)",
+  "exp": "42"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A7",
+  "formula": "REGEXTEST(\"abc123\",\"[0-9]+\")",
+  "exp": true
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A8",
+  "formula": "REGEXEXTRACT(\"abc123\",\"[0-9]+\")",
+  "exp": "123"
+ },
+ {
+  "sheet": "TextFuncs",
+  "addr": "A9",
+  "formula": "REGEXREPLACE(\"abc123\",\"[0-9]+\",\"XYZ\")",
+  "exp": "abcXYZ"
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B1",
+  "formula": "MODE.SNGL(A1:A8)",
+  "exp": 20
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B2",
+  "formula": "MODE(A1:A8)",
+  "exp": 20
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B3",
+  "formula": "PERCENTILE.INC(A1:A8,0.5)",
+  "exp": 35
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B4",
+  "formula": "PERCENTILE(A1:A8,0.5)",
+  "exp": 35
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B5",
+  "formula": "QUARTILE.INC(A1:A8,2)",
+  "exp": 35
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B6",
+  "formula": "TRIMMEAN(A1:A8,0.25)",
+  "exp": 36.666666666666664
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B7",
+  "formula": "RANK.AVG(20,A1:A8,0)",
+  "exp": 6.5
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B8",
+  "formula": "RANK(30,A1:A8,0)",
+  "exp": 5
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B9",
+  "formula": "PERCENTRANK.INC(A1:A8,30)",
+  "exp": 0.5
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B10",
+  "formula": "PROB({1,2,3},{0.2,0.5,0.3},2)",
+  "exp": 0.5
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B11",
+  "formula": "FORECAST.LINEAR(9,{10,20,30},{1,2,3})",
+  "exp": 90
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B12",
+  "formula": "INTERCEPT({10,20,30},{1,2,3})",
+  "exp": 0
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B13",
+  "formula": "AGGREGATE(9,0,A1:A8)",
+  "exp": 300
+ },
+ {
+  "sheet": "StatsFuncs",
+  "addr": "B14",
+  "formula": "AGGREGATE(1,0,A1:A8)",
+  "exp": 37.5
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A1",
+  "formula": "ERF.PRECISE(1)",
+  "exp": {
+   "approx": 0.8427,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A2",
+  "formula": "ERFC.PRECISE(0)",
+  "exp": {
+   "approx": 1,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A3",
+  "formula": "ECMA.CEILING(4.2)",
+  "exp": {
+   "approx": 5,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A4",
+  "formula": "MDETERM({1,2;3,4})",
+  "exp": {
+   "approx": -2,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A5",
+  "formula": "PERMUT(5,2)",
+  "exp": {
+   "approx": 20,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A6",
+  "formula": "PERMUTATIONA(5,2)",
+  "exp": {
+   "approx": 25,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "MathFuncs",
+  "addr": "A7",
+  "formula": "BINOM.DIST.RANGE(10,0.5,5,5)",
+  "exp": {
+   "approx": 0.2461,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "FinFuncs",
+  "addr": "A1",
+  "formula": "IRR({-100,50,60})",
+  "exp": {
+   "approx": 0.0639,
+   "tol": 0.01
+  }
+ },
+ {
+  "sheet": "LookupFuncs",
+  "addr": "C1",
+  "formula": "XLOOKUP(2,A1:A3,B1:B3)",
+  "exp": "b"
+ },
+ {
+  "sheet": "LookupFuncs",
+  "addr": "C2",
+  "formula": "LOOKUP(2,A1:A3,B1:B3)",
+  "exp": "b"
+ }
+]

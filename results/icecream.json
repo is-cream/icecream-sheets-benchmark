@@ -1,0 +1,2110 @@
+{
+ "engine": "icecream-sheets",
+ "harnessVersion": "1.0.0",
+ "runAt": "2026-10-21T23:38:02.926Z",
+ "overall": {
+  "passed": 463,
+  "total": 465,
+  "scorePct": 99.57
+ },
+ "files": {
+  "functions.xlsx": {
+   "passed": 419,
+   "total": 421,
+   "scorePct": 99.52
+  },
+  "functions-batch2.xlsx": {
+   "passed": 44,
+   "total": 44,
+   "scorePct": 100
+  }
+ },
+ "functions": {
+  "ABS": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ACOS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ACOSH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ACOT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ACOTH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ADDRESS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "AGGREGATE": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "AND": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ARABIC": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ARRAYTOTEXT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ASIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ASINH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ATAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ATAN2": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ATANH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "AVEDEV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "AVERAGE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "AVERAGEA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "AVERAGEIF": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "AVERAGEIFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BASE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BESSELI": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BESSELJ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BESSELK": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BESSELY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BETA.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BETA.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BETAINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BIN2DEC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BIN2HEX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BIN2OCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BINOM.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BINOM.DIST.RANGE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BINOM.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BINOMDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BITAND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BITLSHIFT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BITOR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BITRSHIFT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "BITXOR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CEILING": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CELL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHIDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHIINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHISQ.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHISQ.DIST.RT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHISQ.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHISQ.INV.RT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CHOOSE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CLEAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CODE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COLUMN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COLUMNS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COMBIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COMBINA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COMPLEX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONCAT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONCATENATE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONFIDENCE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONFIDENCE.NORM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONFIDENCE.T": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CONVERT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CORREL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COSH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COTH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNTA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNTBLANK": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNTIF": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNTIFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COUNTUNIQUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "COVAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CRITBINOM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CSC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CSCH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CUMIPMT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "CUMPRINC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DATE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DATEDIF": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DATEVALUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DAVERAGE": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DAY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DAYS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DAYS360": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DB": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DCOUNT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DCOUNTA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DDB": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DEC2BIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DEC2HEX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DEC2OCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DECIMAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DEGREES": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DELTA": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DEVSQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DGET": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DMAX": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DMIN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DOLLAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DOLLARDE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DOLLARFR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DSTDEV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DSTDEVP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DSUM": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "DVAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "DVARP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ECMA.CEILING": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "EDATE": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "EFFECT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "EOMONTH": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ERF": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ERF.PRECISE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ERFC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ERFC.PRECISE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ERROR.TYPE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "EVEN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "EXACT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "EXP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "EXPON.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "EXPONDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "F.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "F.DIST.RT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "F.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "F.INV.RT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FACT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FACTDOUBLE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FALSE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FILTER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FIND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FISHER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FISHERINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FIXED": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FLOOR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FORECAST.LINEAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FORMULATEXT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "FV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "FVSCHEDULE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMA.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMA.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMADIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMAINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAMMALN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GAUSS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GCD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GEOMEAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "GESTEP": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "HARMEAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HEX2BIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HEX2DEC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HEX2OCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.ADD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.CONCAT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.DIVIDE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.EQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.GT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.GTE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.LT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.LTE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.MINUS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.MULTIPLY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.NE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.POW": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.UMINUS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.UNARY_PERCENT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HF.UPLUS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HLOOKUP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HOUR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HYPERLINK": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HYPGEOM.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "HYPGEOMDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IF": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "IFERROR": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "IFNA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMABS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMAGINARY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMARGUMENT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCONJUGATE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCOS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCOSH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCOT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCSC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMCSCH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMDIV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMEXP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMLN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMLOG10": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMLOG2": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMPOWER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMPRODUCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMREAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSEC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSECH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSINH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSQRT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSUB": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMSUM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IMTAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "INDEX": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "INT": {
+   "passed": 1,
+   "total": 2,
+   "passRatePct": 50
+  },
+  "INTERCEPT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "INTERVAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IPMT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "IRR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISBINARY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISBLANK": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISERR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISERROR": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISEVEN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISFORMULA": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISLOGICAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISNA": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISNONTEXT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISNUMBER": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ISODD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISOWEEKNUM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISPMT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISREF": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ISTEXT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "LARGE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LCM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LEFT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LEN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOG": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOG10": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOGINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOGNORM.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOGNORM.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOGNORMDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "LOOKUP": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "LOWER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MATCH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MAX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MAXA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MAXIFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MAXPOOL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MDETERM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MEDIAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MEDIANPOOL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MID": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MINA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MINIFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MINUTE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MIRR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MMULT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MOD": {
+   "passed": 1,
+   "total": 2,
+   "passRatePct": 50
+  },
+  "MODE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MODE.SNGL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MONTH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MROUND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "MULTINOMIAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "N": {
+   "passed": 3,
+   "total": 3,
+   "passRatePct": 100
+  },
+  "NA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NEGBINOM.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NEGBINOMDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NETWORKDAYS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NOMINAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORM.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORM.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORM.S.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORM.S.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORMDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORMINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORMSDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NORMSINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NOT": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "NOW": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NPER": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "NPV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "NUMBERVALUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "OCT2BIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "OCT2DEC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "OCT2HEX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ODD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "OFFSET": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "OR": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "PDURATION": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PEARSON": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PERCENTILE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PERCENTILE.INC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PERCENTRANK.INC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PERMUT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PERMUTATIONA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PHI": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PI": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PMT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "POISSON": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "POISSON.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "POWER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PPMT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PROB": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PRODUCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PROPER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "PV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "QUARTILE.INC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "QUOTIENT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RADIANS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RAND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RANDARRAY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RANDBETWEEN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RANK": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RANK.AVG": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RANK.EQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RATE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "REGEXEXTRACT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "REGEXREPLACE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "REGEXTEST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "REPLACE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "REPT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RIGHT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ROMAN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "ROUND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ROUNDDOWN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ROUNDUP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ROW": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ROWS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RRI": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "RSQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SEARCH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SEC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SECH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SECOND": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SEQUENCE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SERIESSUM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SHEET": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SHEETS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SIGN": {
+   "passed": 3,
+   "total": 3,
+   "passRatePct": 100
+  },
+  "SIN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SINH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SKEW": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SKEW.P": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SLN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "SLOPE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SMALL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SORT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SPLIT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SQRT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SQRTPI": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "STANDARDIZE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "STDEVA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "STDEVP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "STDEVPA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "STEYX": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUBSTITUTE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUBTOTAL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMIF": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMIFS": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMPRODUCT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMSQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMX2MY2": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMX2PY2": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SUMXMY2": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SWITCH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "SYD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "T": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "T.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "T.DIST.2T": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "T.DIST.RT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "T.INV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "T.INV.2T": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TAN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "TANH": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TBILLEQ": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TBILLPRICE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TBILLYIELD": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TDIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TEXT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TEXTAFTER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TEXTBEFORE": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "TEXTJOIN": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "TIME": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TIMEVALUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TINV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TODAY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TRANSPOSE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TRIM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TRIMMEAN": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TRUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "TRUNC": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "TYPE": {
+   "passed": 3,
+   "total": 3,
+   "passRatePct": 100
+  },
+  "UNICHAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "UNICODE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "UNIQUE": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "UPPER": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "VALUE": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "VALUETOTEXT": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "VARA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "VARP": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "VARPA": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "VLOOKUP": {
+   "passed": 3,
+   "total": 3,
+   "passRatePct": 100
+  },
+  "WEEKDAY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "WEEKNUM": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "WEIBULL": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "WEIBULL.DIST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "WORKDAY": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "XLOOKUP": {
+   "passed": 4,
+   "total": 4,
+   "passRatePct": 100
+  },
+  "XNPV": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "XOR": {
+   "passed": 2,
+   "total": 2,
+   "passRatePct": 100
+  },
+  "YEAR": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "YEARFRAC": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "Z.TEST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  },
+  "ZTEST": {
+   "passed": 1,
+   "total": 1,
+   "passRatePct": 100
+  }
+ },
+ "failures": [
+  {
+   "file": "functions.xlsx",
+   "key": "Math!B26",
+   "formula": "INT(-7.1)",
+   "expected": {
+    "value": -8
+   },
+   "got": {
+    "kind": "number",
+    "value": -7
+   }
+  },
+  {
+   "file": "functions.xlsx",
+   "key": "Math!B38",
+   "formula": "MOD(-10,3)",
+   "expected": {
+    "value": 2
+   },
+   "got": {
+    "kind": "number",
+    "value": -1
+   }
+  }
+ ]
+}
